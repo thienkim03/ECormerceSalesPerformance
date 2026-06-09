@@ -114,19 +114,15 @@ Các tháng đóng góp lợi nhuận nổi bật gồm:
 
 #### Furniture được cải thiện đáng kể
 
-[Insert bảng Category Revenue & Profit năm 2019]
+<img width="1182" height="335" alt="image" src="https://github.com/user-attachments/assets/f7a5c01a-8303-4c59-bdc5-67c2e9b875e7" />
 
 Furniture chuyển từ nhóm thua lỗ lớn nhất năm 2018 sang danh mục đóng góp lợi nhuận tích cực trong năm 2019.
-
-Các sản phẩm cải thiện mạnh nhất:
-
-[Insert bảng Profit theo Sub-Category Furniture năm 2019]
 
 Đặc biệt, Bookcases và Chairs trở thành các sản phẩm dẫn đầu về lợi nhuận trong danh mục này.
 
 #### Electronics trở thành động lực tăng trưởng lợi nhuận
 
-[Insert bảng Electronics Revenue & Profit]
+<img width="1186" height="335" alt="image" src="https://github.com/user-attachments/assets/c7e356c4-6774-4047-9415-fc4d8c8acf2f" />
 
 Các nhóm sản phẩm đóng góp lớn nhất gồm:
 
@@ -144,7 +140,15 @@ Electronics là danh mục tạo ra lợi nhuận cao nhất trong năm 2019 và
 
 Clothing duy trì hiệu suất tích cực trong cả hai năm.
 
-[Insert bảng Clothing Performance]
+**2018: **
+
+<img width="590" height="345" alt="image" src="https://github.com/user-attachments/assets/2c1a8057-286a-4290-9267-8c6fd9043637" />
+
+**2019: **
+
+<img width="627" height="344" alt="image" src="https://github.com/user-attachments/assets/edc8812c-2ee3-4eae-a3a5-e93a5c58614c" />
+
+
 
 Mặc dù doanh thu giảm trong năm 2019, lợi nhuận lại tăng mạnh. Điều này cho thấy doanh nghiệp đã cải thiện được cơ cấu sản phẩm hoặc chính sách giá trong danh mục này.
 
