@@ -199,7 +199,7 @@ Các thành phố như Mumbai, Indore và Pune chiếm tỷ trọng lớn trong 
 
 Năm 2018 xuất hiện nhiều trường hợp doanh thu lớn nhưng lợi nhuận thấp hoặc âm.
 
-[Insert bảng Top Revenue Cities vs Profit]
+<img width="1191" height="646" alt="image" src="https://github.com/user-attachments/assets/116528f3-6ad8-4762-beaa-61642d694450" />
 
 Ví dụ:
 
@@ -216,7 +216,7 @@ Trong khi đó, Pune lại tạo ra lợi nhuận cao dù doanh thu thấp hơn 
 
 Năm 2019 ghi nhận sự cải thiện rõ rệt về lợi nhuận tại các thành phố trọng điểm.
 
-[Insert bảng Top Profit Cities 2019]
+<img width="691" height="195" alt="image" src="https://github.com/user-attachments/assets/b8f969e3-dc43-4d58-9f31-d22ecea55d30" />
 
 Các thành phố đóng góp lợi nhuận cao nhất gồm:
 
@@ -231,7 +231,7 @@ Không còn xuất hiện tình trạng doanh thu lớn nhưng lợi nhuận âm
 
 ### 4.4. Phân bố lợi nhuận theo bang
 
-[Insert Map Profit by State]
+<img width="496" height="305" alt="image" src="https://github.com/user-attachments/assets/9e69f1cf-44a7-4b0c-924b-4c42409be38b" />
 
 Lợi nhuận tập trung tại một số bang có quy mô bán hàng lớn, cho thấy doanh nghiệp đã tối ưu tốt hơn hiệu quả kinh doanh tại các thị trường trọng điểm.
 
