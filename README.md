@@ -140,11 +140,11 @@ Electronics là danh mục tạo ra lợi nhuận cao nhất trong năm 2019 và
 
 Clothing duy trì hiệu suất tích cực trong cả hai năm.
 
-**2018: **
+2018: 
 
 <img width="590" height="345" alt="image" src="https://github.com/user-attachments/assets/2c1a8057-286a-4290-9267-8c6fd9043637" />
 
-**2019: **
+2019: 
 
 <img width="627" height="344" alt="image" src="https://github.com/user-attachments/assets/edc8812c-2ee3-4eae-a3a5-e93a5c58614c" />
 
@@ -160,7 +160,7 @@ Clothing là danh mục có khả năng duy trì lợi nhuận ổn định và 
 
 Trong năm 2018, Furniture đóng góp đáng kể vào doanh thu nhưng lại tạo ra khoản lỗ lớn nhất.
 
-[Insert bảng Furniture Detail 2018]
+<img width="1200" height="316" alt="image" src="https://github.com/user-attachments/assets/eb7957e0-1755-4e66-bfb0-de372aaf3a35" />
 
 Nguyên nhân chủ yếu đến từ:
 
@@ -175,7 +175,7 @@ Nguyên nhân chủ yếu đến từ:
 
 Năm 2019, Electronics trở thành danh mục có hiệu quả kinh doanh tốt nhất.
 
-[Insert bảng Electronics Detail 2019]
+<img width="1200" height="317" alt="image" src="https://github.com/user-attachments/assets/91f781d6-48a2-4c5a-a80f-5739bd964296" />
 
 Danh mục này không chỉ tạo doanh thu cao mà còn duy trì biên lợi nhuận tích cực trên nhiều nhóm sản phẩm khác nhau.
 
@@ -187,11 +187,11 @@ Danh mục này không chỉ tạo doanh thu cao mà còn duy trì biên lợi n
 
 Trong cả hai năm, doanh thu chủ yếu tập trung ở một số thành phố dẫn đầu.
 
-[Insert bảng Top Revenue Cities]
+<img width="675" height="139" alt="image" src="https://github.com/user-attachments/assets/5fbde375-6749-4ddc-afdb-c6ac543ee520" />
 
 Các thành phố như Mumbai, Indore và Pune chiếm tỷ trọng lớn trong tổng doanh thu toàn doanh nghiệp.
 
-[Insert Scatter Plot Revenue vs Quantity]
+<img width="1364" height="348" alt="image" src="https://github.com/user-attachments/assets/7307e7cf-6b77-4892-8318-297af65f9fa6" />
 
 ---
 
